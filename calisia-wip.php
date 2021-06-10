@@ -15,7 +15,7 @@ class CalisiaWip{
 
         
         $pageNames = explode("/",$_SERVER['REQUEST_URI']);
-        if(isset($pageNames[1]) && ($pageNames[1] == 'login' || $pageNames[1] == 'wp-admin'))
+        if(isset($pageNames[1]) && ($pageNames[1] == 'login' || $pageNames[1] == 'wp-admin' || isset($_GET['wc-api'])))
             return;
 
 
