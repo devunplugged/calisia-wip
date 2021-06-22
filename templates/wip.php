@@ -67,7 +67,7 @@
         <div class="calisia-wip-panel">
             <img class="logo" src="https://lokalnamanufaktura.pl/wp-content/uploads/2021/04/logo_spizarnia_rumianek_apla.png" alt="spizarnia rumianek">
             <h1 class="h-prim">Lokalna Manufaktura</h1>
-            <h2 class="h-sec">Wkrótce otwieramy dla Was nasza spiżarnię!</h2>
+            <h2 class="h-sec">Wkrótce otwieramy dla Was naszą spiżarnię!</h2>
         </div>
     </div>
     <div class="calisia-wip-panel-secondary">
