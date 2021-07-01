@@ -2,6 +2,9 @@
 /**
  * Plugin Name: calisia-wip
  */
+if ( ! defined( 'ABSPATH' ) ) {
+	exit();
+}
 
 $calisiaWip = new CalisiaWip();
 add_action( 'wp_loaded', array( $calisiaWip, 'halt' ) );
